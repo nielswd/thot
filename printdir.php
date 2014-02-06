@@ -1,3 +1,3 @@
 <?php
-print_r(array[2]);
+print_r(scandir('.'));
 ?>
